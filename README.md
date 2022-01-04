@@ -4,13 +4,13 @@
 
 Print.color() to console in any platform, more features will be added later.
 
-[![License](https://img.shields.io/github/license/PalestineDevelopers/palestine_console)](https://github.com/PalestineDevelopers)
+[![License](https://img.shields.io/github/license/PalestineDevelopers/console)](https://github.com/PalestineDevelopers)
 [![Pub](https://img.shields.io/badge/Palestine%20Console-pub-blue)](https://pub.dev/packages/palestine_palestine_console)
 [![Example](https://img.shields.io/badge/Example-Ex-success)](https://pub.dev/packages/palestine_palestine_console/example)
 
-[![Fork](https://img.shields.io/github/forks/PalestineDevelopers/palestine_console?style=social)](https://github.com/PalestineDevelopers/palestine_console)
-[![Star](https://img.shields.io/github/stars/PalestineDevelopers/palestine_console?style=social)](https://github.com/PalestineDevelopers/palestine_console)
-[![Watch](https://img.shields.io/github/watchers/PalestineDevelopers/palestine_console?style=social)](https://github.com/PalestineDevelopers/palestine_console)
+[![Fork](https://img.shields.io/github/forks/PalestineDevelopers/console?style=social)](https://github.com/PalestineDevelopers/console)
+[![Star](https://img.shields.io/github/stars/PalestineDevelopers/console?style=social)](https://github.com/PalestineDevelopers/console)
+[![Watch](https://img.shields.io/github/watchers/PalestineDevelopers/console?style=social)](https://github.com/PalestineDevelopers/console)
 
 ---
 
