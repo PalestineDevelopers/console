@@ -1,4 +1,4 @@
-# palestine_palestine_console
+# palestine_console
 
 ## Part of [PalestineDevelopers](https://github.com/PalestineDevelopers)
 
