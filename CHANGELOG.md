@@ -2,6 +2,10 @@
 
 - More Features.
 
+## 0.0.5
+
+- Auto release.
+
 ## 0.0.4
 
 - Docs.
