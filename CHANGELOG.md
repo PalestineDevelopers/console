@@ -2,7 +2,7 @@
 
 - More Features.
 
-## 0.0.5
+## 0.0.5 | 0.0.6
 
 - Auto release.
 
