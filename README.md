@@ -5,7 +5,7 @@
 Print.color() to console in any platform, more features will be added later.
 
 [![License](https://img.shields.io/github/license/PalestineDevelopers/console?style=for-the-badge)](https://github.com/PalestineDevelopers)
-[![Pub](https://img.shields.io/badge/SMS%20Misr-pub-blue?style=for-the-badge)](https://pub.dev/packages/palestine_console)
+[![Pub](https://img.shields.io/badge/Palestine%20Console-pub-blue?style=for-the-badge)](https://pub.dev/packages/palestine_console)
 [![Example](https://img.shields.io/badge/Example-Ex-success?style=for-the-badge)](https://pub.dev/packages/palestine_console/example)
 
 [![GitHub release](https://img.shields.io/github/v/release/PalestineDevelopers/console?style=for-the-badge)](https://github.com/PalestineDevelopers/console/releases)
