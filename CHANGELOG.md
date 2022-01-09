@@ -2,6 +2,10 @@
 
 - More Features.
 
+## 0.0.4
+
+- Docs.
+
 ## 0.0.3
 
 - URLs.

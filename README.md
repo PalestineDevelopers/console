@@ -4,13 +4,13 @@
 
 Print.color() to console in any platform, more features will be added later.
 
-[![License](https://img.shields.io/github/license/PalestineDevelopers/console)](https://github.com/PalestineDevelopers)
-[![Pub](https://img.shields.io/badge/Palestine%20Console-pub-blue)](https://pub.dev/packages/palestine_palestine_console)
-[![Example](https://img.shields.io/badge/Example-Ex-success)](https://pub.dev/packages/palestine_palestine_console/example)
+[![License](https://img.shields.io/github/license/PalestineDevelopers/console?style=for-the-badge)](https://github.com/PalestineDevelopers)
+[![Pub](https://img.shields.io/badge/SMS%20Misr-pub-blue?style=for-the-badge)](https://pub.dev/packages/palestine_console)
+[![Example](https://img.shields.io/badge/Example-Ex-success?style=for-the-badge)](https://pub.dev/packages/palestine_console/example)
 
-[![Fork](https://img.shields.io/github/forks/PalestineDevelopers/console?style=social)](https://github.com/PalestineDevelopers/console)
-[![Star](https://img.shields.io/github/stars/PalestineDevelopers/console?style=social)](https://github.com/PalestineDevelopers/console)
-[![Watch](https://img.shields.io/github/watchers/PalestineDevelopers/console?style=social)](https://github.com/PalestineDevelopers/console)
+[![GitHub release](https://img.shields.io/github/v/release/PalestineDevelopers/console?style=for-the-badge)](https://github.com/PalestineDevelopers/console/releases)
+[![GitHub stars](https://img.shields.io/github/stars/PalestineDevelopers/console?style=for-the-badge)](https://github.com/PalestineDevelopers/console)
+[![GitHub forks](https://img.shields.io/github/forks/PalestineDevelopers/console?style=for-the-badge)](https://github.com/PalestineDevelopers/console)
 
 ---
 
