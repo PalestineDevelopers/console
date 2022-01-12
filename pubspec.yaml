@@ -1,6 +1,6 @@
 name: palestine_console
 description: Print.color() to console in any platform, more features will be added later.
-version: 0.0.9
+version: 0.0.10
 homepage: https://github.com/msayed-net/PalestineDevelopers
 repository: https://github.com/PalestineDevelopers/console
 issue_tracker: https://github.com/PalestineDevelopers/console/issues
