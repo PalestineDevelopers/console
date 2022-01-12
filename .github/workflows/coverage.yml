@@ -11,7 +11,8 @@ jobs:
         working-directory: ./
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - name: Start Job
+        uses: actions/checkout@v1
       - name: Install Flutter
         uses: subosito/flutter-action@v1
         with:
