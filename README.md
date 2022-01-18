@@ -22,6 +22,7 @@ Print.color() to console in any platform, more features will be added later.
 * [Features](#features)
 * [Getting started](#getting-started)
 * [Usage](#usage)
+* [Contributors](#contributors)
 
 ---
 
@@ -55,3 +56,7 @@ Print.blue('In blue');
 Print.magenta('In magenta');
 Print.cyan('In cyan');
 ```
+
+## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=palestinedevelopers/console)
